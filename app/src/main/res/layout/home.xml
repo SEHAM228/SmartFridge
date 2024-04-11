@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+
+    <ScrollView
+        android:fillViewport="true"
+        android:id="@+id/rl7i43xw5nye"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#FFF6F6F6"
+        android:paddingBottom="449dp"
+        >
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <LinearLayout
+                android:id="@+id/r6sf151yhe1k"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="26dp"
+                android:background="#FFFF6B00"
+                android:orientation="vertical"
+                android:paddingBottom="36dp">
+
+                <LinearLayout
+                    android:id="@+id/rl44zsgnclsp"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="20dp"
+                    android:orientation="horizontal">
+
+                    <LinearLayout
+                        android:id="@+id/rgoyn1tkrglo"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:layout_weight="1"
+                        android:orientation="vertical"></LinearLayout>
+
+                    <LinearLayout
+                        android:id="@+id/reezm8aopaul"
+                        android:layout_width="14dp"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="15dp"
+                        android:layout_marginEnd="6dp"
+                        android:orientation="vertical">
+
+                        <ImageView
+                            android:id="@+id/r6ae7eb1o0lf"
+                            android:layout_width="match_parent"
+                            android:layout_height="16dp"
+                            android:scaleType="fitXY"
+                            android:src="@mipmap/ic_launcher" />
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:id="@+id/rhrnqs7zkid"
+                        android:layout_width="14dp"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="15dp"
+                        android:layout_marginEnd="6dp"
+                        android:orientation="vertical">
+
+                        <ImageView
+                            android:id="@+id/r2rh7jetyoat"
+                            android:layout_width="match_parent"
+                            android:layout_height="14dp"
+                            android:layout_marginTop="1dp"
+                            android:scaleType="fitXY"
+                            android:src="@mipmap/ic_launcher" />
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:id="@+id/rr971y8vtq59"
+                        android:layout_width="14dp"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="15dp"
+                        android:orientation="vertical">
+
+                        <ImageView
+                            android:id="@+id/rsotyjnzhglf"
+                            android:layout_width="match_parent"
+                            android:layout_height="10dp"
+                            android:layout_marginTop="3dp"
+                            android:scaleType="fitXY"
+                            android:src="@mipmap/ic_launcher" />
+                    </LinearLayout>
+                </LinearLayout>
+
+                <TextView
+                    android:id="@+id/r918ilebzzm4"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginHorizontal="75dp"
+                    android:text="Welcome, Oliva Grace"
+                    android:textColor="#FFFFFF"
+                    android:textSize="18sp" />
+            </LinearLayout>
+
+            <TextView
+                android:id="@+id/rj67r6d0mor"
+                android:textColor="#000000"
+                android:textSize="12sp"
+                android:layout_marginHorizontal="27dp"
+                android:layout_height="wrap_content"
+                android:layout_width="wrap_content"
+                android:text="Good Afternoon"
+                />
+            <TextView
+                android:id="@+id/r723t11s29u"
+                android:textColor="#000000"
+                android:textSize="18sp"
+                android:layout_marginHorizontal="16dp"
+                android:layout_height="wrap_content"
+                android:layout_width="wrap_content"
+                android:text=" food List"
+                />
+
+            <Button
+                android:id="@+id/btn_logout"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="end"
+                android:layout_marginStart="16dp"
+                android:layout_marginTop="16dp"
+                android:layout_marginEnd="16dp"
+                android:layout_marginBottom="16dp"
+                android:text="Déconnexion" />
+        </LinearLayout>
+    </ScrollView>
+
+
+</RelativeLayout>

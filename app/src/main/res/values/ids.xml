@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="textViewTitle" type="id" />
+    <item name="btn_logout" type="id" />
+    <item name="listViewRecipes" type="id" />
+    <item name="imageButtonMenu" type="id" />
+</resources>

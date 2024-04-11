@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SmartFridge</string>
+    <string name="login" />
+    <string name="todo" />
+</resources>
