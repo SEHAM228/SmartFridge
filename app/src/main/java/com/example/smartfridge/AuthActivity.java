@@ -32,7 +32,7 @@ public class AuthActivity extends AppCompatActivity implements View.OnClickListe
     LinearLayout espace1;
     LinearLayout espace2;
     LinearLayout espace3;
-
+//test
     EditText nom;
     EditText prenom;
     EditText email;
